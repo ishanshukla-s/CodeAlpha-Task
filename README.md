@@ -28,7 +28,10 @@ checking, and file-based credential storage.
 - Data Structures
 - Object-Oriented/Procedural Programming Concepts
 
-## Author
+## Author 
+**Ishan Shukla**
+
+C++ Programming Internship — CodeAlpha
 
 **Kalash Kumar**
 
