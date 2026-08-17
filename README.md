@@ -31,7 +31,6 @@ checking, and file-based credential storage.
 ## Author 
 **Ishan Shukla**
 
-C++ Programming Internship — CodeAlpha
 
 
 C++ Programming Internship — **CodeAlpha**
