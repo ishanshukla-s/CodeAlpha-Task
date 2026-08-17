@@ -33,6 +33,5 @@ checking, and file-based credential storage.
 
 C++ Programming Internship — CodeAlpha
 
-**Kalash Kumar**
 
 C++ Programming Internship — **CodeAlpha**
